@@ -4,7 +4,7 @@
 #
 # http://projects.bentasker.co.uk/jira_projects/browse/DNSCHAT.html
 #
-# Copyright (C) 2014 B Tasker
+# Copyright (C) 2015 B Tasker
 # Released under GNU GPL V2
 # See http://www.gnu.org/licenses/gpl-2.0.html
 #
